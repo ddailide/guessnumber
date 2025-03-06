@@ -11,6 +11,7 @@ Enter a number from 1 to 10. If the number is larger, enter a smaller number, if
 ### Example of how it looks
 
 <img src="images/zaidimo pvz.png">
+<img src="images/zaidimo pvz2.png">
 
 ### Executing program
 
