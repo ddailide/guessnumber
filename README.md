@@ -8,7 +8,7 @@ Enter a number from 1 to 10. If the number is larger, enter a smaller number, if
 
 ### Executing program
 
-Just open link: https://pasikas123.github.io/guessnumber/
+Just open link: https://ddailide.github.io/guessnumber/
 
 ## Getting Started
 
@@ -19,4 +19,4 @@ Just open link: https://pasikas123.github.io/guessnumber/
 
 ## Authors
 
-Pasikas123
+@ddailide
